@@ -1,0 +1,5 @@
+﻿difficulty=4
+nonce=87950
+hash=00003f0f7a0d49bb960c650a38d92b68dc174d516aafdca12c0e3783877a429c
+seconds=0.1330
+
