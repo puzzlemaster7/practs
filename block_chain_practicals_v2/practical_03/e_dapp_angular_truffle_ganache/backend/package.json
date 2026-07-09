@@ -1,0 +1,13 @@
+{
+  "name": "practical-03e-dapp-backend",
+  "private": true,
+  "scripts": {
+    "chain": "ganache -p 8545",
+    "compile": "truffle compile",
+    "deploy": "truffle migrate --network development"
+  },
+  "devDependencies": {
+    "ganache": "7.9.2",
+    "truffle": "5.11.5"
+  }
+}
