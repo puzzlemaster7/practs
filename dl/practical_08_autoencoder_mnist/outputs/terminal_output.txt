@@ -1,0 +1,2 @@
+TensorFlow version: 2.21.0
+Saved: outputs/digits_recon.png

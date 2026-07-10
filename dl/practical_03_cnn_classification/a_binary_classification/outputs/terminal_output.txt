@@ -1,0 +1,4 @@
+TensorFlow version: 2.21.0
+Test loss: 0.14784878492355347
+Test accuracy: 0.9466666579246521
+Saved: outputs/decision_boundary.png

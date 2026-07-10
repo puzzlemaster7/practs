@@ -1,0 +1,12 @@
+TensorFlow version: 2.21.0
+Learned weight (w): 25.4337215423584
+Learned bias (b): 26.594493865966797
+Final training loss: 6947157504.0
+
+Predictions:
+  sqft=    800 -> price=20,373.57
+  sqft=   1500 -> price=38,177.18
+  sqft=   2500 -> price=63,610.90
+  sqft=   3200 -> price=81,414.50
+
+Saved plots to: outputs/
