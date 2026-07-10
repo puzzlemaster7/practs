@@ -1,7 +1,0 @@
-﻿=== Multiple Transactions (Organized Display) ===
-# | sender | receiver | amount | timestamp_utc                   
---+--------+----------+--------+---------------------------------
-1 | alice  | bob      | 50.00  | 2026-06-23T17:57:24.785195+00:00
-2 | bob    | carol    | 10.50  | 2026-06-23T17:57:24.785195+00:00
-3 | alice  | dave     | 5.25   | 2026-06-23T17:57:24.785195+00:00
-
