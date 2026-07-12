@@ -1,8 +1,0 @@
-TensorFlow version: 2.21.0
-Test loss: 0.009126630611717701
-Test accuracy: 0.9973333477973938
-Confusion matrix:
- [[124   1   0]
- [  0 125   0]
- [  0   0 125]]
-Saved: outputs/confusion_matrix.png

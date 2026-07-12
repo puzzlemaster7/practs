@@ -1,3 +1,0 @@
-TensorFlow version: 2.21.0
-Predicted caption: red circle
-Saved: outputs/sample_image.png

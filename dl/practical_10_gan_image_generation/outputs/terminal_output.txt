@@ -1,6 +1,0 @@
-step= 100 d_loss=1.1787 g_loss=0.6191
-step= 200 d_loss=1.3735 g_loss=0.6336
-step= 300 d_loss=1.0123 g_loss=0.7442
-step= 400 d_loss=0.7435 g_loss=1.1944
-TensorFlow version: 2.21.0
-Saved: outputs/generated_grid.png
